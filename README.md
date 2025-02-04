@@ -3,5 +3,3 @@ Projeto desenvolvido no curso Python: crie sua primeira aplicação, realizado e
 
 Neste projeto pude ter meu primeiro contato com Python utilizando o VSCode aprendendo como usar condicionais, laços de repetição, blocos de controle de execução try-except, criar funções para mostrar menu principal e registrar restaurantes em listas e dicionários.
 
-Quer conhecer o jogo? Clique no link abaixo e se divirta!
-https://jogo-numero-secr.vercel.app/
